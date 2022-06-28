@@ -2,7 +2,7 @@ pipeline
 {
 environment
 {
-registry = "vishwanath21/mydockerimage2"
+registry = "vishwanath21/mydockerimage_poe"
 registryCredential = 'dockerhub_id2'
 dockerImage = ''
 }
